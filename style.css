@@ -3,10 +3,11 @@
     width: 100%;
     margin: 0px;
     box-shadow: 5px 5px 5px rgb(228, 185, 255);
+    background-color: rgb(42, 0, 72);
 }
 .note{
     font-size: 15px;
-    color: black;
+    color: rgb(255, 255, 255);
 }
 
 .copyrightfooter{
@@ -21,5 +22,8 @@
 canvas{
     border: 5px solid white;
     border-radius: 20px;
-    box-shadow: 5px 5px 5px rgb(42, 0, 72);
+    box-shadow: 5px 5px 5px rgb(236, 210, 255);
+}
+body{
+    background-size: cover;
 }
